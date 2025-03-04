@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RicyFeli
+- 👋 Hi, Welcome to my github profile. 
 - 👀 I’m interested in Software development ( Game and AI products )
 - 🌱 I’m currently learning (Rust and Solana)
 - 💞️ I’m looking to collaborate on Fullstack & GenAI projects.
