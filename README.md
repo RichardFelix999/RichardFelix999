@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning (Rust and Solana)
 - 💞️ I’m looking to collaborate on Fullstack & GenAI projects.
 - 😄 Pronouns: Male
-- ⚡ Fun fact: 26 yo and love music, books and cycling.
 
 <!---
 RichardFelix999/RichardFelix999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
